@@ -1,0 +1,11 @@
+curl -d "s=rosy&limit=20&type=1&offset=0" --referer http://music.163.com http://music.163.com/api/search/get/
+
+
+
+5044899
+
+
+http://music.163.com/api/song/lyric?id=5044899&lv=1
+
+
+curl --referer http://music.163.com http://music.163.com/api/song/lyric?id=5044899&lv=1
